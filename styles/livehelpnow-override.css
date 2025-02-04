@@ -1,0 +1,17 @@
+﻿div.lhnOptions {
+    display: flex;
+    flex-wrap: wrap;
+    max-height: none !important;
+}
+
+div.lhnOption {
+    margin: 2px;
+    border-radius: 20px;
+    background-color: #135d8a !important;
+    color: white !important;
+}
+
+div.lhnOption:hover {
+    background-color: #fff !important;
+    color: #135d8a !important;
+}
